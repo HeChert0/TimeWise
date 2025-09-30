@@ -7,6 +7,4 @@
 
 В папке Documentation/Diagrams можно найти UML-документы.
 
-В папке Documentation/Testing тест-план.
-
 Чтобы запустить приложение необходимо скачать TimeWise.apk на свой телефон(ANDROID) и запустить его.
