@@ -1,15 +1,13 @@
 # Gradle files
 .gradle/
 build/
-app/
+
 .idea/
-Documentation\Testing/
-*.gradle
-*.properties
+
 *.bat
 *.apk
 gradlew
-gradle/
+
 
 # Local configuration file (sdk path, etc)
 local.properties
