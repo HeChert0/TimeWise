@@ -1,4 +1,4 @@
-![Use Case Diagram](./use-case.pdf)
+![Use Case Diagram](use-case.pdf)
 
 # Глоссарий
 
