@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/HeChert0/TimeWise/raw/main/Documentation/Diagrams/Use-case/use-case-converted.png" alt="Use Case Diagram" />
+    <img src="https://github.com/HeChert0/TimeWise/blob/main/Images/use-case-diagramm.png" alt="Use Case Diagram" />
 </div>
 
 # Глоссарий
