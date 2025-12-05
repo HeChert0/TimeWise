@@ -1,4 +1,4 @@
-![Use Case Diagram](../Use-case/use-case.pdf)
+![Use Case Diagram](https://github.com/HeChert0/TimeWise/blob/main/Documentation/Diagrams/Use-case/use-case.pdf)
 
 # Глоссарий
 
