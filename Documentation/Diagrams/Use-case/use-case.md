@@ -1,4 +1,6 @@
-![Use Case Diagram](https://github.com/HeChert0/TimeWise/blob/main/Documentation/Diagrams/Use-case/use-case.pdf)
+<div align="center">
+    <img src="https://github.com/HeChert0/TimeWise/raw/main/Documentation/Diagrams/Use-case/use-case-converted.png" alt="Use Case Diagram" />
+</div>
 
 # Глоссарий
 
